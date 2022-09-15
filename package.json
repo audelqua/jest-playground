@@ -24,12 +24,8 @@
     "build": "react-scripts build",
     "test": "jest",
     "test:watch": "jest --watch",
-    "eject": "react-scripts eject",
-    "server": "node server.js"
+    "eject": "react-scripts eject"
   },
-  "proxy": "http://localhost:9000",
-  "type": "module",
- 
   "eslintConfig": {
     "extends": [
       "react-app",
