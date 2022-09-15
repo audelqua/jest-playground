@@ -30,9 +30,10 @@ const App: React.FC = () => {
 
   return (
     <div className="App">
-      
+      home
     </div>
   );
 }
 
 export default App;
+
